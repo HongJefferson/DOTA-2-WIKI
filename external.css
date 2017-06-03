@@ -1,7 +1,8 @@
 	/* all h2 elements */
-h2 {
+h1 {
   color: black;
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
 }
 /* all p elements */
 p {
