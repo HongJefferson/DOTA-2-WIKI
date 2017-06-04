@@ -1,33 +1,19 @@
 	/* all h1 elements */
+
 h1 {
-  color: black;
-  text-align: right;
-  font-family: "Times New Roman", Times, serif;
+	color: white;
+	text-align: center;
+	font-family: "Impact, Charcoal, sans-serif";
+	font-size: 25px;
+	font-weight: bold;
 }
+
 /* all p elements */
 p {
-  font-size: 20px;
-  font-weight: bold;
-  font-style: italic;
-  opacity: .6;
-    
+	color: yellow;
+	text-align: center;
+	font-family: "Impact, Charcoal, sans-serif";
+	font-size: 40px;
+	font-weight: bold;
 }
-/* all h3 elements */
-h3 {
-  font-size: 30px;
-  font-weight: bold;
-  background-color: white;
-  opacity: .7;
-  Text-align: center;
-}
-/* all p AND h1 elements */
-p, h1 {color: white;
-  text-align: center;
-  font-size: 30px;
-  }
-html { 
-  background: url(https://s-media-cache-ak0.pinimg.com/originals/69/1e/65/691e6589d9112c96d36617f2775b8b0b.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+			
